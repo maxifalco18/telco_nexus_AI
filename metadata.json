@@ -1,0 +1,5 @@
+{
+  "name": "Telco RAG Architect",
+  "description": "A prototype interface for an enterprise RAG system designed for Telecommunications use cases, featuring a chat agent, use case management, and system observability.",
+  "requestFramePermissions": []
+}
